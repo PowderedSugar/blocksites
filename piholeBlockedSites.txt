@@ -1,0 +1,6 @@
+# Title: Additional blocked sites for pi-hole
+
+
+germangoogirls.com
+www.germangoogirls.com
+www.mobile.germangoogirls.com
